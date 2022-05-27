@@ -1,3 +1,2 @@
 # Понкратова Дарья Витальевна
-<img src="https://github.com/PoncratovaD/laba/blob/main/cv.jpg"  width="300" height="300">
-![CV](https://github.com/PoncratovaD/laba/blob/main/cv.jpg)
+<img src="[IMAGE_URL_HERE](https://github.com/PoncratovaD/laba/blob/main/cv.jpg)"  width="200" height="300">
